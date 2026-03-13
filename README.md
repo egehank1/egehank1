@@ -44,4 +44,8 @@ Launched and successfully managed a T-shirt brand from concept to market.
 
 ---
 
-📫 Reach me at **egehanantalya@gmail.com** to collaborate, build, or explore innovative solutions in AI, software, and startups.
+## 📫 Contact & Links
+
+- 📧 Email: **egehanantalya@gmail.com**  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/egehankilic/](https://www.linkedin.com/in/egehankilic/)  
+- 📄 CV: [View CV](https://drive.google.com/file/d/1vOuynx1Rl-oiiMhM2neaFRo3UitEtUwb/view?usp=sharing)
