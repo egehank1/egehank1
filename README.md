@@ -1,4 +1,4 @@
-# Egehan Kılıç – Software Developer | AI Enthusiast | Startup Founder | Investor
+# Egehan Kılıç – Software Developer 
 
 10x problem-solver and versatile technologist with a proven track record in software development, AI, and quantitative projects. Experienced in driving end-to-end solutions, from research and prototyping to deployment, while consistently delivering high-quality, scalable results. Skilled in building and leading teams, mentoring peers, and fostering collaboration across complex, multi-disciplinary projects.
 
