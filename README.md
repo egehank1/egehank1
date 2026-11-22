@@ -2,16 +2,21 @@
 
 [Portfolio](https://www.egehankilic.com/) · [LinkedIn](https://www.linkedin.com/in/egehankilic/) · [Medium](https://medium.com/@egehankilic) · [CV](https://drive.google.com/file/d/1vOuynx1Rl-oiiMhM2neaFRo3UitEtUwb/view?usp=sharing) · [Email](mailto:egehanantalya@gmail.com)
 
-I build ServiceNow applications at **snacc-it** and study computer science at **FH Aachen**. Two questions run through my work on AI systems. Which source supports this answer? And can the person using the software check it for themselves?
+![Profile views](https://komarev.com/ghpvc/?username=egehank1&label=Profile+views&color=18796e&style=flat-square) [![GitHub followers](https://img.shields.io/github/followers/egehank1?label=Followers&style=flat-square&color=18796e)](https://github.com/egehank1?tab=followers)
 
-[Current work](#current-work) · [Projects](#selected-projects) · [Tools](#tools-i-use) · [Background](#background) · [Credentials](#credentials)
+**Co-founder at KOBY · Software Developer at snacc-it · Computer Science at FH Aachen**
+
+I build AI applications for two kinds of users: small business owners deciding what to improve next, and enterprise teams who need to trace a decision back to its source. I use coding agents to shorten the loop from an idea to a working test. I own the architecture, review the diff, and check how the system behaves with incomplete data or the wrong permissions.
+
+[Current work](#current-work) · [Engineering projects](#selected-engineering-work) · [Technical focus](#technical-focus) · [Activity](#github-activity) · [Languages](#languages) · [Credentials](#credentials)
 
 ## Current work
 
-- **Digital Product Passports.** At snacc-it I contribute to ETHICA, a research project on product data and compliance. My research interest is how to turn regulatory text into traceable rules for a product passport.
-- **ServiceNow development.** I work on employee services, including travel reimbursement and sickness reporting. Much of the engineering happens at the edges of a form, where dates, attachments and approval rules need to agree.
+- **KOBY | Co-founder.** We combine business data with observations from the field to help small and medium-sized businesses prioritize improvements. My work spans the AI application and our engineering workflow. A useful recommendation needs to explain what we observed, why it matters and what the owner can do next.
+- **snacc-it | ServiceNow & ETHICA.** I build employee workflows for sickness reporting and travel reimbursement. On ETHICA, I contribute to a Digital Product Passport platform. One question I am exploring is how to turn regulatory text into a checkable product-data requirement while keeping the source passage attached.
+- **Applied AI research.** I read papers on retrieval, LLM evaluation and structured outputs. I use small experiments to understand where a method helps, what it costs and how it fails before using it in a product.
 
-## Selected projects
+## Selected engineering work
 
 | Project | Inside the repository |
 | --- | --- |
@@ -22,7 +27,9 @@ I build ServiceNow applications at **snacc-it** and study computer science at **
 
 [Browse all repositories](https://github.com/egehank1?tab=repositories) · [Read about the design of DeepScholar](https://medium.com/@egehankilic/the-hardest-part-of-ai-research-tools-isnt-generation-it-s-trust-14cf5f11e37e)
 
-## Tools I use
+## Technical focus
+
+![Python, TypeScript, JavaScript, C++, Java, React, Next.js, FastAPI, PostgreSQL, scikit-learn, PyTorch, Git and Linux](https://skillicons.dev/icons?i=py,ts,js,cpp,java,react,nextjs,fastapi,postgres,sklearn,pytorch,git,linux&perline=7)
 
 | Area | Tools |
 | --- | --- |
@@ -30,6 +37,16 @@ I build ServiceNow applications at **snacc-it** and study computer science at **
 | Data analysis | pandas, NumPy, scikit-learn, Jupyter |
 | Interfaces and enterprise applications | TypeScript, React, Next.js, JavaScript, ServiceNow |
 | Systems and desktop applications | C++, Java, JavaFX, Git, Linux |
+
+## GitHub activity
+
+[![Public GitHub activity for Egehan Kılıç](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egehank1&theme=github_dark)](https://github.com/egehank1?tab=overview)
+
+## Languages
+
+[![Programming languages by repository count](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egehank1&theme=github_dark)](https://github.com/egehank1?tab=repositories)
+
+I work in Turkish, German and English. My German and English C1 credentials are listed below.
 
 ## Background
 
