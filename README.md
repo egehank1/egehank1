@@ -1,10 +1,10 @@
 [![Egehan Kılıç — Software developer in Aachen, Germany](assets/profile-header.svg)](https://www.egehankilic.com/)
 
-[Portfolio](https://www.egehankilic.com/) · [LinkedIn](https://www.linkedin.com/in/egehankilic/) · [Medium](https://medium.com/@egehankilic) · [CV](https://drive.google.com/file/d/1vOuynx1Rl-oiiMhM2neaFRo3UitEtUwb/view?usp=sharing) · [Email](mailto:egehanantalya@gmail.com)
+[Portfolio](https://www.egehankilic.com/) · [LinkedIn](https://www.linkedin.com/in/egehankilic/) · [Medium](https://medium.com/@egehankilic) · [Email](mailto:egehanantalya@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=egehank1&label=Profile+views&color=18796e&style=flat-square) [![GitHub followers](https://img.shields.io/github/followers/egehank1?label=Followers&style=flat-square&color=18796e)](https://github.com/egehank1?tab=followers)
 
-**Co-founder at KOBY · Software Developer at snacc-it · Computer Science at FH Aachen**
+**Co-founder at Kobi · Software Developer at snacc-it · Computer Science at FH Aachen**
 
 I build AI applications for two kinds of users: small business owners deciding what to improve next, and enterprise teams who need to trace a decision back to its source. I use coding agents to shorten the loop from an idea to a working test. I own the architecture, review the diff, and check how the system behaves with incomplete data or the wrong permissions.
 
@@ -12,7 +12,7 @@ I build AI applications for two kinds of users: small business owners deciding w
 
 ## Current work
 
-- **KOBY | Co-founder.** We combine business data with observations from the field to help small and medium-sized businesses prioritize improvements. My work spans the AI application and our engineering workflow. A useful recommendation needs to explain what we observed, why it matters and what the owner can do next.
+- **Kobi | Co-founder.** We combine business data with observations from the field to help small and medium-sized businesses prioritize improvements. My work spans the AI application and our engineering workflow. A useful recommendation needs to explain what we observed, why it matters and what the owner can do next.
 - **snacc-it | ServiceNow & ETHICA.** I build employee workflows for sickness reporting and travel reimbursement. On ETHICA, I contribute to a Digital Product Passport platform. One question I am exploring is how to turn regulatory text into a checkable product-data requirement while keeping the source passage attached.
 - **Applied AI research.** I read papers on retrieval, LLM evaluation and structured outputs. I use small experiments to understand where a method helps, what it costs and how it fails before using it in a product.
 
