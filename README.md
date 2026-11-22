@@ -1,51 +1,51 @@
-# Egehan Kılıç – Software Developer 
+[![Egehan Kılıç — Software developer in Aachen, Germany](assets/profile-header.svg)](https://www.egehankilic.com/)
 
-10x problem-solver and versatile technologist with a proven track record in software development, AI, and quantitative projects. Experienced in driving end-to-end solutions, from research and prototyping to deployment, while consistently delivering high-quality, scalable results. Skilled in building and leading teams, mentoring peers, and fostering collaboration across complex, multi-disciplinary projects.
+[Portfolio](https://www.egehankilic.com/) · [LinkedIn](https://www.linkedin.com/in/egehankilic/) · [Medium](https://medium.com/@egehankilic) · [CV](https://drive.google.com/file/d/1vOuynx1Rl-oiiMhM2neaFRo3UitEtUwb/view?usp=sharing) · [Email](mailto:egehanantalya@gmail.com)
 
-- 💻 Currently pursuing a degree in Computer Science in Germany while working as a software developer.  
-- 🚀 Built expertise in AI, machine learning, and trading systems, participating in diverse coding and quantitative competitions.  
-- 🔧 Experienced in Python, C++, Java, TensorFlow, PyTorch, Scikit-learn, HuggingFace, LangChain, LangGraph, MLflow, and other modern frameworks.  
-- 📊 Solved hundreds of coding problems, participated in global contests, and applied algorithmic thinking to real-world projects.  
-- 📈 Founder of multiple startups and active investor, combining technical insight with strategic decision-making to create impact and growth.  
-- 🏅 Holds multiple certifications, including Apple Certified Swift Developer and Linux Essentials.  
-- 🤝 Passionate about teamwork, leadership, and continuous learning, striving to push the boundaries of AI and software engineering.
+I build ServiceNow applications at **snacc-it** and study computer science at **FH Aachen**. Two questions run through my work on AI systems. Which source supports this answer? And can the person using the software check it for themselves?
 
----
+[Current work](#current-work) · [Projects](#selected-projects) · [Tools](#tools-i-use) · [Background](#background) · [Credentials](#credentials)
 
-## 💼 Experience
+## Current work
 
-### **Software Developer** – snacc-it  
-- Developed advanced automation workflows and custom scripts for IT Service Management.  
-- Designed dynamic user interfaces and interactive forms to improve workflow efficiency.  
-- Optimized client- and server-side processes, integrating user data for smarter automation.  
-- Contributed to improving usability and adoption of enterprise platforms.
+- **Digital Product Passports.** At snacc-it I contribute to ETHICA, a research project on product data and compliance. My research interest is how to turn regulatory text into traceable rules for a product passport.
+- **ServiceNow development.** I work on employee services, including travel reimbursement and sickness reporting. Much of the engineering happens at the edges of a form, where dates, attachments and approval rules need to agree.
 
-### **Quantitative Developer** – Aachen Investment Club e.V.  
-- Designed and implemented algorithmic strategies for quantitative trading competitions.  
-- Collaborated with a team to develop financial models and data-driven decision systems.  
+## Selected projects
 
-### **Computer Science Tutor**  
-- Mentored students in programming fundamentals, algorithms, and advanced software design.  
-- Guided learners through hands-on projects and problem-solving challenges.
+| Project | Inside the repository |
+| --- | --- |
+| [DeepScholar](https://github.com/egehank1/deepscholar) | A research assistant for academic PDFs. PostgreSQL and pgvector retrieve relevant passages, and a FastAPI backend returns answers with citations that readers can check. |
+| [RFM Customer Segmentation](https://github.com/egehank1/rfm-customer-segmentation) | A Python analysis that groups customers by how recently they bought, how often they return and how much they spend. The notebooks use K-means to explore purchasing patterns. |
+| [JPL Mars Rover](https://github.com/egehank1/jpl-mars-rover) | An interface for exploring rover imagery and mission data through NASA’s public APIs. |
+| [Bank Application](https://github.com/egehank1/Bank_Application) | A JavaFX desktop application for accounts and transactions, with a Java domain model and JSON persistence. |
 
----
+[Browse all repositories](https://github.com/egehank1?tab=repositories) · [Read about the design of DeepScholar](https://medium.com/@egehankilic/the-hardest-part-of-ai-research-tools-isnt-generation-it-s-trust-14cf5f11e37e)
 
-## 🚀 Startups & Projects
+## Tools I use
 
-### **Hardstyle Wear · Owner**
-Launched and successfully managed a T-shirt brand from concept to market.  
+| Area | Tools |
+| --- | --- |
+| Retrieval and AI applications | Python, FastAPI, PostgreSQL, pgvector, OpenAI API |
+| Data analysis | pandas, NumPy, scikit-learn, Jupyter |
+| Interfaces and enterprise applications | TypeScript, React, Next.js, JavaScript, ServiceNow |
+| Systems and desktop applications | C++, Java, JavaFX, Git, Linux |
 
-**Key achievements:**  
-1. **Brand Development:** Designed a cohesive brand identity including logo, website, and social media assets for Instagram and TikTok.  
-2. **Content Creation:** Produced 15+ TikTok advertisements and Instagram headers using Photoshop and Sony Vegas Pro.  
-3. **SEO Optimization:** Increased website visibility by 120% through strategic SEO and analytics-driven refinements.  
-4. **Marketing Success:** Drove over **50,000 visitors in 24 hours** via innovative TikTok campaigns.  
-5. **Data-Driven Approach:** Leveraged analytics and Sprout to optimize campaigns, increasing engagement rates by **35%**.  
+## Background
 
----
+I started studying computer science at **Özyeğin University** before transferring to **FH Aachen**, where I focus on autonomous systems and visual computing. I tutored students in C++ over two semesters and received an e-fellows.net scholarship, renewed in 2026.
 
-## 📫 Contact & Links
+Before my current role, I developed trading strategies with **Aachen Investment Club**. I also co-founded **Upstreak Media** and ran **Hardstyle Wear**, working on the storefront, campaigns and customer acquisition.
 
-- 📧 Email: **egehanantalya@gmail.com**  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/egehankilic/](https://www.linkedin.com/in/egehankilic/)  
-- 📄 CV: [View CV](https://drive.google.com/file/d/1vOuynx1Rl-oiiMhM2neaFRo3UitEtUwb/view?usp=sharing)
+## Credentials
+
+| Issuer | Credential | Year |
+| --- | --- | --- |
+| Haufe Akademie | EU AI Act · AI and data protection · AI and information security · Handling AI tools | 2026 |
+| Apple | Apple Certified Swift Developer | 2025 |
+| Cisco Networking Academy | Linux Essentials | 2025 |
+| Michigan State University | Cameras, Exposure, and Photography | 2024 |
+| telc | German C1 | 2023 |
+| Özyeğin University | TRACE English C1 | 2021 |
+
+[Credentials on LinkedIn](https://www.linkedin.com/in/egehankilic/details/certifications/) · [Experience and project case studies](https://www.egehankilic.com/)
