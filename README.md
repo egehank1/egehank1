@@ -1,6 +1,6 @@
 <a href="https://www.egehankilic.com/"><img src="assets/egehan-koby-header-v4.png" alt="Egehan Kılıç — Applied AI engineering. Software developer at snacc-it. Co-founder of Koby." width="100%"></a>
 
-I'm a co-founder of **Koby**, where we're building an AI product that combines the data and field observations of small and medium-sized businesses to decide which improvements come first. I also work as a software developer at **snacc-it** and study computer science at **FH Aachen**.
+I'm a co-founder of **Koby**, where we're building an AI product that combines the data and field observations of small and medium-sized businesses to decide which improvements come first. I also work as a software developer at **snacc-it**, where I build AI systems for Digital Product Passports on the ETHICA project, and study computer science at **FH Aachen**.
 
 **Start here:** [DeepScholar](https://github.com/egehank1/deepscholar), a research assistant that answers with checkable citations ([screenshots](https://github.com/egehank1/deepscholar/tree/main/docs/screenshots)), and the [RFM customer segmentation report](https://github.com/egehank1/rfm-customer-segmentation/blob/main/report.pdf).
 
@@ -14,11 +14,12 @@ Email: `egehanantalya@gmail.com` · [Open in Gmail](https://mail.google.com/mail
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/koby-wordmark-on-dark.svg"><img src="assets/koby-wordmark-on-light.svg" alt="Koby" height="32" align="absmiddle"></picture> · Co-founder
 
-Koby turns business data and observations from the field into a recommended next step, with the reasoning behind it. I build the AI application. With coding agents I work in small, checkable steps: I reduce a problem to a test, review every diff, and try the change against missing data and restricted access before it ships.
+Koby combines business data with observations from the field to recommend what a small business should improve first, and explains why. I build the AI side of the product: OpenAI API integrations, model selection and fine-tuning. With coding agents I work in small, checkable steps: I reduce a problem to a test, review every diff, and try the change against missing data and restricted access before it ships.
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/snacc-it-dark.svg"><img src="assets/snacc-it.svg" alt="snacc-it" height="33" align="absmiddle"></picture> · Software Developer
 
-At snacc-it, my employer, I develop applications on the ServiceNow platform, including employee workflows for sickness reporting and travel reimbursement. I also work on ETHICA, a project on Digital Product Passports, where I look at how to link product-data requirements to the regulations behind them.
+- **ETHICA (AI):** I work on the AI side of Digital Product Passports. RAG systems and a vector database link product-data requirements to the regulatory passages behind them.
+- **ServiceNow:** I turn internal processes such as employee workflows, sickness reporting and travel reimbursement into simple, well-designed applications for everyone in the company.
 
 ### ◇ AI research · FH Aachen
 
@@ -38,38 +39,39 @@ I read research on retrieval, LLM evaluation and structured outputs, then run sm
 ## Technical focus
 
 - **Languages:** Python, TypeScript, JavaScript, C++, Java and C.
-- **Retrieval and AI applications:** FastAPI, PostgreSQL with pgvector, Supabase and the OpenAI API.
-- **Data analysis and machine learning:** pandas, NumPy, scikit-learn, PyTorch and Jupyter.
-- **Web and enterprise applications:** React, Next.js, Vercel and ServiceNow.
-- **Desktop and tooling:** JavaFX, Git and Linux.
+- **AI and retrieval:** OpenAI API, RAG pipelines, vector databases (pgvector), model fine-tuning and evaluation.
+- **Backend and data:** FastAPI, PostgreSQL, Supabase, Prisma, pandas, NumPy, scikit-learn and PyTorch.
+- **Web and enterprise applications:** React, Next.js, Node.js, Vercel and ServiceNow.
+- **Delivery and tooling:** Git, GitHub Actions, Linux and JavaFX.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,cpp,java,c,react,nextjs,fastapi,postgres,supabase,vercel,sklearn,pytorch,git,linux&perline=8&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,js,cpp,java,c,react,nextjs,fastapi,postgres,supabase,vercel,sklearn,pytorch,git,linux&perline=8&theme=light">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java,c,react,nextjs,fastapi,postgres,supabase,vercel,sklearn,pytorch,git,linux&perline=8" alt="Python, TypeScript, JavaScript, C++, Java, C, React, Next.js, FastAPI, PostgreSQL, Supabase, Vercel, scikit-learn, PyTorch, Git and Linux">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,cpp,java,c,react,nextjs,nodejs,fastapi,postgres,supabase,prisma,vercel,sklearn,pytorch,githubactions,git,linux&perline=10&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,js,cpp,java,c,react,nextjs,nodejs,fastapi,postgres,supabase,prisma,vercel,sklearn,pytorch,githubactions,git,linux&perline=10&theme=light">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java,c,react,nextjs,nodejs,fastapi,postgres,supabase,prisma,vercel,sklearn,pytorch,githubactions,git,linux&perline=10" alt="Python, TypeScript, JavaScript, C++, Java, C, React, Next.js, Node.js, FastAPI, PostgreSQL, Supabase, Prisma, Vercel, scikit-learn, PyTorch, GitHub Actions, Git and Linux">
 </picture>
 
 ## GitHub activity
 
-<a href="https://github.com/egehank1?tab=overview">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egehank1&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egehank1&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egehank1&theme=default" alt="Public GitHub activity for Egehan Kılıç">
-</picture>
-</a>
+<p align="center">
+  <a href="https://github.com/egehank1?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=egehank1&theme=default&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=9da7b3&timezone=Europe%2FBerlin&disable_animations=true&card_width=420">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=egehank1&theme=default&background=ffffff&border=d0d7de&stroke=d0d7de&ring=1f6feb&fire=1f6feb&currStreakNum=24292f&sideNums=24292f&currStreakLabel=1f6feb&sideLabels=24292f&dates=57606a&timezone=Europe%2FBerlin&disable_animations=true&card_width=420">
+    <img src="https://streak-stats.demolab.com/?user=egehank1&theme=default&background=ffffff&border=d0d7de&stroke=d0d7de&ring=1f6feb&fire=1f6feb&currStreakNum=24292f&sideNums=24292f&currStreakLabel=1f6feb&sideLabels=24292f&dates=57606a&timezone=Europe%2FBerlin&disable_animations=true&card_width=420" alt="Total GitHub contributions and contribution streaks for egehank1" width="410">
+  </picture>
+  </a>
+  <a href="https://github.com/egehank1?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egehank1&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egehank1&theme=default">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egehank1&theme=default" alt="Programming languages by repository count" width="410">
+  </picture>
+  </a>
+</p>
 
 ## Languages
 
-<a href="https://github.com/egehank1?tab=repositories">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egehank1&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egehank1&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egehank1&theme=default" alt="Programming languages by repository count">
-</picture>
-</a>
-
-I work in Turkish, German and English. My German and English C1 credentials are listed below.
+I work in German, English and Turkish. My German (telc) and English (TRACE) C1 certificates are listed under [Credentials](#credentials).
 
 ## Background
 
