@@ -1,6 +1,6 @@
 <a href="https://www.egehankilic.com/"><img src="assets/egehan-koby-header-v4.png" alt="Egehan Kılıç — Applied AI engineering. Software developer at snacc-it. Co-founder of Koby." width="100%"></a>
 
-I'm a co-founder of **Koby**, where we're building an AI product that combines the data and field observations of small and medium-sized businesses to decide which improvements come first. I also work as a software developer at **snacc-it**, where I build AI systems for Digital Product Passports on the ETHICA project, and study computer science at **FH Aachen**.
+I'm a co-founder of **Koby**, where we build an AI product that combines the data and field observations of small and medium-sized businesses to decide which improvements come first. I also build AI systems on the ETHICA project as a software developer at **snacc-it**, and I study computer science at **FH Aachen**.
 
 **Start here:** [DeepScholar](https://github.com/egehank1/deepscholar), a research assistant that answers with checkable citations ([screenshots](https://github.com/egehank1/deepscholar/tree/main/docs/screenshots)), and the [RFM customer segmentation report](https://github.com/egehank1/rfm-customer-segmentation/blob/main/report.pdf).
 
@@ -21,15 +21,16 @@ Koby combines business data with observations from the field to recommend what a
 - **ETHICA (AI):** I work on the AI side of Digital Product Passports. RAG systems and a vector database link product-data requirements to the regulatory passages behind them.
 - **ServiceNow:** I turn internal processes such as employee workflows, sickness reporting and travel reimbursement into simple, well-designed applications for everyone in the company.
 
-### ◇ AI research · FH Aachen
+### ◇ Independent AI research
 
-I read research on retrieval, LLM evaluation and structured outputs, then run small experiments to see where a method helps and where it breaks down.
+On my own time I follow papers, Medium write-ups and new tooling on RAG systems, machine learning models, agents and automation. I turn what I read into small experiments to see where a method helps and where it breaks down. My [AI engineering bootcamp repository](https://github.com/egehank1/ai-engineering-bootcamp) collects the hands-on work.
 
 ## Selected engineering work
 
 | Project | Inside the repository |
 | --- | --- |
 | [DeepScholar](https://github.com/egehank1/deepscholar) | A research assistant for academic PDFs. PostgreSQL and pgvector retrieve relevant passages, and a FastAPI backend returns answers with citations that readers can check. See the [screenshots](https://github.com/egehank1/deepscholar/tree/main/docs/screenshots) and the [design write-up](https://medium.com/@egehankilic/the-hardest-part-of-ai-research-tools-isnt-generation-it-s-trust-14cf5f11e37e). |
+| [AI Engineering Bootcamp](https://github.com/egehank1/ai-engineering-bootcamp) | Course notebooks and scripts on NLP pipelines, Transformers and Hugging Face, LangChain and OpenAI API integrations. |
 | [RFM Customer Segmentation](https://github.com/egehank1/rfm-customer-segmentation) | A team project in Python that groups retail customers by how recently they bought, how often they return and how much they spend. Read the [report](https://github.com/egehank1/rfm-customer-segmentation/blob/main/report.pdf) (German) or open the [notebook](https://github.com/egehank1/rfm-customer-segmentation/blob/main/notebooks/analysis.ipynb). |
 | [JPL Mars Rover](https://github.com/egehank1/jpl-mars-rover) | An interface for exploring rover imagery and mission data through NASA’s public APIs. |
 | [Bank Application](https://github.com/egehank1/Bank_Application) | A JavaFX desktop application for accounts and transactions, with a Java domain model and JSON persistence. |
@@ -38,16 +39,16 @@ I read research on retrieval, LLM evaluation and structured outputs, then run sm
 
 ## Technical focus
 
+- **AI and retrieval:** OpenAI API, RAG pipelines, vector databases (pgvector), model fine-tuning and evaluation, plus Hugging Face Transformers and LangChain from my bootcamp projects.
 - **Languages:** Python, TypeScript, JavaScript, C++, Java and C.
-- **AI and retrieval:** OpenAI API, RAG pipelines, vector databases (pgvector), model fine-tuning and evaluation.
 - **Backend and data:** FastAPI, PostgreSQL, Supabase, Prisma, pandas, NumPy, scikit-learn and PyTorch.
 - **Web and enterprise applications:** React, Next.js, Node.js, Vercel and ServiceNow.
 - **Delivery and tooling:** Git, GitHub Actions, Linux and JavaFX.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,cpp,java,c,react,nextjs,nodejs,fastapi,postgres,supabase,prisma,vercel,sklearn,pytorch,githubactions,git,linux&perline=10&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,js,cpp,java,c,react,nextjs,nodejs,fastapi,postgres,supabase,prisma,vercel,sklearn,pytorch,githubactions,git,linux&perline=10&theme=light">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java,c,react,nextjs,nodejs,fastapi,postgres,supabase,prisma,vercel,sklearn,pytorch,githubactions,git,linux&perline=10" alt="Python, TypeScript, JavaScript, C++, Java, C, React, Next.js, Node.js, FastAPI, PostgreSQL, Supabase, Prisma, Vercel, scikit-learn, PyTorch, GitHub Actions, Git and Linux">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cjava%2Cc%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Cpostgres%2Csupabase%2Cprisma%2Cvercel%2Csklearn%2Cpytorch%2Cgithubactions%2Cgit%2Clinux&perline=10&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cjava%2Cc%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Cpostgres%2Csupabase%2Cprisma%2Cvercel%2Csklearn%2Cpytorch%2Cgithubactions%2Cgit%2Clinux&perline=10&theme=light">
+  <img src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cjava%2Cc%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Cpostgres%2Csupabase%2Cprisma%2Cvercel%2Csklearn%2Cpytorch%2Cgithubactions%2Cgit%2Clinux&perline=10" alt="Python, TypeScript, JavaScript, C++, Java, C, React, Next.js, Node.js, FastAPI, PostgreSQL, Supabase, Prisma, Vercel, scikit-learn, PyTorch, GitHub Actions, Git and Linux">
 </picture>
 
 ## GitHub activity
