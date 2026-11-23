@@ -46,9 +46,9 @@ On my own time I follow papers, Medium write-ups and new tooling on RAG systems,
 - **Delivery and tooling:** Git, GitHub Actions, Linux and JavaFX.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cjava%2Cc%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Cpostgres%2Csupabase%2Cprisma%2Cvercel%2Csklearn%2Cpytorch%2Cgithubactions%2Cgit%2Clinux&perline=10&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cjava%2Cc%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Cpostgres%2Csupabase%2Cprisma%2Cvercel%2Csklearn%2Cpytorch%2Cgithubactions%2Cgit%2Clinux&perline=10&theme=light">
-  <img src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cjava%2Cc%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Cpostgres%2Csupabase%2Cprisma%2Cvercel%2Csklearn%2Cpytorch%2Cgithubactions%2Cgit%2Clinux&perline=10" alt="Python, TypeScript, JavaScript, C++, Java, C, React, Next.js, Node.js, FastAPI, PostgreSQL, Supabase, Prisma, Vercel, scikit-learn, PyTorch, GitHub Actions, Git and Linux">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cjava%2Creact%2Cnextjs%2Cfastapi%2Cpostgres%2Cpytorch%2Csklearn%2Cgit&perline=6&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cjava%2Creact%2Cnextjs%2Cfastapi%2Cpostgres%2Cpytorch%2Csklearn%2Cgit&perline=6&theme=light">
+  <img src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp%2Cjava%2Creact%2Cnextjs%2Cfastapi%2Cpostgres%2Cpytorch%2Csklearn%2Cgit&perline=6" alt="Python, TypeScript, JavaScript, C++, Java, React, Next.js, FastAPI, PostgreSQL, PyTorch, scikit-learn and Git">
 </picture>
 
 ## GitHub activity
