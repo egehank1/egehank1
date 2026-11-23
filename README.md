@@ -4,7 +4,7 @@ I'm a co-founder of **Koby**, where we build an AI product that combines the dat
 
 **Start here:** [DeepScholar](https://github.com/egehank1/deepscholar), a research assistant that answers with checkable citations ([screenshots](https://github.com/egehank1/deepscholar/tree/main/docs/screenshots)), and the [RFM customer segmentation report](https://github.com/egehank1/rfm-customer-segmentation/blob/main/report.pdf).
 
-**[Portfolio](https://www.egehankilic.com/) · [LinkedIn](https://www.linkedin.com/in/egehankilic/) · [Medium](https://medium.com/@egehankilic)**
+**[My Personal Website](https://www.egehankilic.com/) · [LinkedIn](https://www.linkedin.com/in/egehankilic/) · [Medium](https://medium.com/@egehankilic)**
 
 Email: `egehanantalya@gmail.com` · [Open in Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=egehanantalya%40gmail.com)
 
