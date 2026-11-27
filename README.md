@@ -12,11 +12,11 @@ Email: `egehanantalya@gmail.com` · [Open in Gmail](https://mail.google.com/mail
 
 ## Current work
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/koby-wordmark-on-dark.svg"><img src="assets/koby-wordmark-on-light.svg" alt="Koby" height="32" align="absmiddle"></picture> · Co-founder
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/koby-wordmark-on-dark.svg"><img src="assets/koby-wordmark-on-light.svg" alt="Koby" height="44" align="absmiddle"></picture> · Co-founder
 
 Koby combines business data with observations from the field to recommend what a small business should improve first, and explains why. I build the AI side of the product: OpenAI API integrations, model selection and fine-tuning. With coding agents I work in small, checkable steps: I reduce a problem to a test, review every diff, and try the change against missing data and restricted access before it ships.
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/snacc-it-dark.svg"><img src="assets/snacc-it.svg" alt="snacc-it" height="33" align="absmiddle"></picture> · Software Developer
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/snacc-it-dark.svg"><img src="assets/snacc-it.svg" alt="snacc-it" height="36" align="absmiddle"></picture> · Software Developer
 
 - **ETHICA (AI):** I work on the AI side of Digital Product Passports. RAG systems and a vector database link product-data requirements to the regulatory passages behind them.
 - **ServiceNow:** I turn internal processes such as employee workflows, sickness reporting and travel reimbursement into simple, well-designed applications for everyone in the company.
