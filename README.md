@@ -2,7 +2,7 @@
 
 I'm a co-founder of **Koby**, where we build an AI product that combines the data and field observations of small and medium-sized businesses to decide which improvements come first. I also build AI systems on the ETHICA project as a software developer at **snacc-it**, and I study computer science at **FH Aachen**.
 
-**Start here:** [DeepScholar](https://github.com/egehank1/deepscholar), a research assistant that answers with checkable citations ([screenshots](https://github.com/egehank1/deepscholar/tree/main/docs/screenshots)), and the [RFM customer segmentation report](https://github.com/egehank1/rfm-customer-segmentation/blob/main/report.pdf).
+**Start here:** [DeepScholar](https://github.com/egehankilic/deepscholar), a research assistant that answers with checkable citations ([screenshots](https://github.com/egehankilic/deepscholar/tree/main/docs/screenshots)), and the [RFM customer segmentation report](https://github.com/egehankilic/rfm-customer-segmentation/blob/main/report.pdf).
 
 **[My Personal Website](https://www.egehankilic.com/) · [LinkedIn](https://www.linkedin.com/in/egehankilic/)**
 
@@ -23,19 +23,19 @@ Koby combines business data with observations from the field to recommend what a
 
 ### ◇ Independent AI research
 
-On my own time I follow papers, Medium write-ups and new tooling on RAG systems, machine learning models, agents and automation. I turn what I read into small experiments to see where a method helps and where it breaks down. My [AI engineering bootcamp repository](https://github.com/egehank1/ai-engineering-bootcamp) collects the hands-on work.
+On my own time I follow papers, Medium write-ups and new tooling on RAG systems, machine learning models, agents and automation. I turn what I read into small experiments to see where a method helps and where it breaks down. My [AI engineering bootcamp repository](https://github.com/egehankilic/ai-engineering-bootcamp) collects the hands-on work.
 
 ## Selected engineering work
 
 | Project | Inside the repository |
 | --- | --- |
-| [DeepScholar](https://github.com/egehank1/deepscholar) | A research assistant for academic PDFs. PostgreSQL and pgvector retrieve relevant passages, and a FastAPI backend returns answers with citations that readers can check. See the [screenshots](https://github.com/egehank1/deepscholar/tree/main/docs/screenshots) and the [design write-up](https://medium.com/@egehankilic/the-hardest-part-of-ai-research-tools-isnt-generation-it-s-trust-14cf5f11e37e). |
-| [AI Engineering Bootcamp](https://github.com/egehank1/ai-engineering-bootcamp) | Course notebooks and scripts on NLP pipelines, Transformers and Hugging Face, LangChain and OpenAI API integrations. |
-| [RFM Customer Segmentation](https://github.com/egehank1/rfm-customer-segmentation) | A team project in Python that groups retail customers by how recently they bought, how often they return and how much they spend. Read the [report](https://github.com/egehank1/rfm-customer-segmentation/blob/main/report.pdf) (German) or open the [notebook](https://github.com/egehank1/rfm-customer-segmentation/blob/main/notebooks/analysis.ipynb). |
-| [JPL Mars Rover](https://github.com/egehank1/jpl-mars-rover) | An interface for exploring rover imagery and mission data through NASA’s public APIs. |
-| [Bank Application](https://github.com/egehank1/Bank_Application) | A JavaFX desktop application for accounts and transactions, with a Java domain model and JSON persistence. |
+| [DeepScholar](https://github.com/egehankilic/deepscholar) | A research assistant for academic PDFs. PostgreSQL and pgvector retrieve relevant passages, and a FastAPI backend returns answers with citations that readers can check. See the [screenshots](https://github.com/egehankilic/deepscholar/tree/main/docs/screenshots) and the [design write-up](https://medium.com/@egehankilic/the-hardest-part-of-ai-research-tools-isnt-generation-it-s-trust-14cf5f11e37e). |
+| [AI Engineering Bootcamp](https://github.com/egehankilic/ai-engineering-bootcamp) | Course notebooks and scripts on NLP pipelines, Transformers and Hugging Face, LangChain and OpenAI API integrations. |
+| [RFM Customer Segmentation](https://github.com/egehankilic/rfm-customer-segmentation) | A team project in Python that groups retail customers by how recently they bought, how often they return and how much they spend. Read the [report](https://github.com/egehankilic/rfm-customer-segmentation/blob/main/report.pdf) (German) or open the [notebook](https://github.com/egehankilic/rfm-customer-segmentation/blob/main/notebooks/analysis.ipynb). |
+| [JPL Mars Rover](https://github.com/egehankilic/jpl-mars-rover) | An interface for exploring rover imagery and mission data through NASA’s public APIs. |
+| [Bank Application](https://github.com/egehankilic/Bank_Application) | A JavaFX desktop application for accounts and transactions, with a Java domain model and JSON persistence. |
 
-[Browse all repositories](https://github.com/egehank1?tab=repositories)
+[Browse all repositories](https://github.com/egehankilic?tab=repositories)
 
 ## Technical focus
 
@@ -54,18 +54,18 @@ On my own time I follow papers, Medium write-ups and new tooling on RAG systems,
 ## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/egehank1?tab=overview">
+  <a href="https://github.com/egehankilic?tab=overview">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=egehank1&theme=default&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=9da7b3&timezone=Europe%2FBerlin&disable_animations=true&card_width=420">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=egehank1&theme=default&background=ffffff&border=d0d7de&stroke=d0d7de&ring=1f6feb&fire=1f6feb&currStreakNum=24292f&sideNums=24292f&currStreakLabel=1f6feb&sideLabels=24292f&dates=57606a&timezone=Europe%2FBerlin&disable_animations=true&card_width=420">
-    <img src="https://streak-stats.demolab.com/?user=egehank1&theme=default&background=ffffff&border=d0d7de&stroke=d0d7de&ring=1f6feb&fire=1f6feb&currStreakNum=24292f&sideNums=24292f&currStreakLabel=1f6feb&sideLabels=24292f&dates=57606a&timezone=Europe%2FBerlin&disable_animations=true&card_width=420" alt="Total GitHub contributions and contribution streaks for egehank1" width="410">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=egehankilic&theme=default&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=9da7b3&timezone=Europe%2FBerlin&disable_animations=true&card_width=420">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=egehankilic&theme=default&background=ffffff&border=d0d7de&stroke=d0d7de&ring=1f6feb&fire=1f6feb&currStreakNum=24292f&sideNums=24292f&currStreakLabel=1f6feb&sideLabels=24292f&dates=57606a&timezone=Europe%2FBerlin&disable_animations=true&card_width=420">
+    <img src="https://streak-stats.demolab.com/?user=egehankilic&theme=default&background=ffffff&border=d0d7de&stroke=d0d7de&ring=1f6feb&fire=1f6feb&currStreakNum=24292f&sideNums=24292f&currStreakLabel=1f6feb&sideLabels=24292f&dates=57606a&timezone=Europe%2FBerlin&disable_animations=true&card_width=420" alt="Total GitHub contributions and contribution streaks for egehankilic" width="410">
   </picture>
   </a>
-  <a href="https://github.com/egehank1?tab=repositories">
+  <a href="https://github.com/egehankilic?tab=repositories">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egehank1&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egehank1&theme=default">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egehank1&theme=default" alt="Programming languages by repository count" width="410">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egehankilic&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egehankilic&theme=default">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egehankilic&theme=default" alt="Programming languages by repository count" width="410">
   </picture>
   </a>
 </p>

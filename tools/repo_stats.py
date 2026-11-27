@@ -5,7 +5,7 @@ Uses the GitHub REST API (https://docs.github.com/en/rest). No token is
 required for public data; set GITHUB_TOKEN to raise the rate limit.
 
 Usage:
-    python tools/repo_stats.py            # defaults to egehank1
+    python tools/repo_stats.py            # defaults to egehankilic
     python tools/repo_stats.py <username> # any public account
 """
 
@@ -45,7 +45,7 @@ def public_repos(user: str):
 
 
 def main() -> int:
-    user = sys.argv[1] if len(sys.argv) > 1 else "egehank1"
+    user = sys.argv[1] if len(sys.argv) > 1 else "egehankilic"
     repos = [repo for repo in public_repos(user) if not repo["fork"]]
     languages = Counter(repo["language"] for repo in repos if repo["language"])
     stars = sum(repo["stargazers_count"] for repo in repos)
