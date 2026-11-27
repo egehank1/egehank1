@@ -12,7 +12,7 @@ Email: `egehanantalya@gmail.com` · [Open in Gmail](https://mail.google.com/mail
 
 ## Current work
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/koby-wordmark-on-dark.svg"><img src="assets/koby-wordmark-on-light.svg" alt="Koby" height="44" align="absmiddle"></picture> · Co-founder
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/koby-wordmark-on-dark.svg"><img src="assets/koby-wordmark-on-light.svg" alt="Koby" height="54" align="absmiddle"></picture> · Co-founder
 
 Koby combines business data with observations from the field to recommend what a small business should improve first, and explains why. I build the AI side of the product: OpenAI API integrations, model selection and fine-tuning. With coding agents I work in small, checkable steps: I reduce a problem to a test, review every diff, and try the change against missing data and restricted access before it ships.
 
